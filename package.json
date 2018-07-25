@@ -1,7 +1,7 @@
 {
-  "name": "classwork5",
+  "name": "classwork_5",
   "version": "1.0.0",
-  "description": "simple node server",
+  "description": "My node server",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,18 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmanim420/classwork5.git"
+    "url": "git+https://github.com/Towhid008/classwork_5.git"
   },
   "keywords": [
-    "AKH"
+    "TSK"
   ],
-  "author": "Anim",
+  "author": "Towhid",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmanim420/classwork5/issues"
+    "url": "https://github.com/Towhid008/classwork_5/issues"
   },
-  "homepage": "https://github.com/bmanim420/classwork5#readme",
-  "dependencies": {
-    "body-parser": "^1.18.3"
-  }
+  "homepage": "https://github.com/Towhid008/classwork_5#readme"
 }

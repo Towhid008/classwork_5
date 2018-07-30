@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Towhid008/classwork_5/issues"
   },
-  "homepage": "https://github.com/Towhid008/classwork_5#readme"
+  "homepage": "https://github.com/Towhid008/classwork_5#readme",
+  "dependencies": {
+    "mongoose": "^5.2.5"
+  }
 }
